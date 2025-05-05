@@ -1,7 +1,7 @@
 # Arthur Mota Fernandes
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGo1N2pyMHoxbWN2dTcwM2w1NTRueWs5MmQyYTJ1dDFnYWtybHU0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="350"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGo1N2pyMHoxbWN2dTcwM2w1NTRueWs5MmQyYTJ1dDFnYWtybHU0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="750"/>
 </p>
 
 Desenvolvedor de Software | Especialista em Automação e Dados  
