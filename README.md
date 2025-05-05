@@ -11,7 +11,7 @@ Desenvolvedor de Software | Especialista em Automação e Dados
 
 ## 🧩 Sobre
 
-Sou um desenvolvedor em formação com foco em automação de processos, análise de dados e desenvolvimento fullstack. Tenho experiência em criar soluções eficientes que otimizam fluxos de trabalho e melhoram a produtividade. Busco constantemente aprimorar minhas habilidades técnicas e contribuir para projetos desafiadores.
+Sou um desenvolvedor em formação com foco em automação de processos e análise de dados, também sabendo desenvolvimento fullstack. Tenho experiência em criar soluções eficientes que otimizam fluxos de trabalho e melhoram a produtividade. Busco constantemente aprimorar minhas habilidades técnicas e contribuir para projetos desafiadores.
 
 ---
 
