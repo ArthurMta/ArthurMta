@@ -28,6 +28,7 @@ Sou um desenvolvedor em formação com foco em automação de processos e análi
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23f0db4f?style=for-the-badge&logo=java&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=unity&logoColor=white)
+![C/C++](https://img.shields.io/badge/C/C++-4479A1?style=for-the-badge&logo=C&logoColor=white)
 
 
 
