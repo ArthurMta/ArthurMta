@@ -9,13 +9,13 @@ Desenvolvedor de Software | Especialista em Automação e Dados
 
 ---
 
-## 🧩 Sobre
+## Sobre
 
 Sou um desenvolvedor em formação com foco em automação de processos e análise de dados, também sabendo desenvolvimento fullstack. Tenho experiência em criar soluções eficientes que otimizam fluxos de trabalho e melhoram a produtividade. Busco constantemente aprimorar minhas habilidades técnicas e contribuir para projetos desafiadores.
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
@@ -34,13 +34,13 @@ Sou um desenvolvedor em formação com foco em automação de processos e análi
 
 ---
 
-## 📨 Contato
+##  Contato
 
 [![Email](https://img.shields.io/badge/Email-arthurmfernandes05%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurmfernandes05@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arthur--mota--fernandes-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-mota-fernandes)
 
 ---
 
-## 📁 Sobre este Perfil
+##  Sobre este Perfil
 
 Este repositório é dedicado a projetos acadêmicos, automações pessoais e experimentações nas áreas de dados e desenvolvimento backend.
